@@ -1,0 +1,6 @@
+# 设置所有文本文件在检出时使用 LF 换行符
+* text=auto eol=lf
+
+# 二进制文件不进行换行符转换
+*.png binary
+*.jpg binary
